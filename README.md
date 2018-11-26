@@ -1,0 +1,2 @@
+# Miot-a
+Algorytm zamiatania.
