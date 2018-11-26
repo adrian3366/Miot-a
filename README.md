@@ -1,3 +1,6 @@
+{
+
+
 package miotla;
 import java.awt.Color;
 import java.awt.Dimension;
@@ -160,4 +163,7 @@ public class Miotla {
         java.awt.EventQueue.invokeLater(new Runnable() {//rysowanie
             public void run() {     new okno().repaint();    }
         });}
+}
+
+
 }
