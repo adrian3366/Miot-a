@@ -1,2 +1,2 @@
-# Miot-a
+# Miotla
 Algorytm zamiatania.
